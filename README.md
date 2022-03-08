@@ -5,22 +5,9 @@
   
  ## Captura de tela
  
+ <img src="https://github.com/Bruninho-ss1/Order-summary-card/blob/master/Order-summary-card.png" align="center" >
+ 
 
-
-Links
-URL da solução: adicione o URL da solução aqui
-URL do site ao vivo: adicione o URL do site ao vivo aqui
-Meu processo
-Construído com
-Marcação semântica HTML5
-Propriedades personalizadas de CSS
-Flexbox
-Grade CSS
-Fluxo de trabalho para dispositivos móveis
-Reagir - biblioteca JS
-Next.js - Estrutura do React
-Componentes estilizados - para estilos
-Nota: Estes são apenas exemplos. Exclua esta nota e substitua a lista acima por suas próprias escolhas
 
 O que eu aprendi
 Use esta seção para recapitular alguns de seus principais aprendizados ao trabalhar neste projeto. Escrevê-los e fornecer amostras de código das áreas que você deseja destacar é uma ótima maneira de reforçar seu próprio conhecimento.
@@ -48,13 +35,13 @@ Exemplo de recurso 1 - Isso me ajudou pelo motivo XYZ. Gostei muito deste modelo
 Recurso de exemplo 2 - Este é um artigo incrível que me ajudou a finalmente entender XYZ. Eu recomendo para quem ainda está aprendendo este conceito.
 Nota: Apague esta nota e substitua a lista acima por recursos que o ajudaram durante o desafio. Eles podem ser úteis para qualquer pessoa que esteja visualizando sua solução ou para você mesmo quando você olhar para trás neste projeto no futuro.
 
-Autor
+## Autor
 Site - Adicione seu nome aqui
 Mentor de front-end - @yourusername
 Twitter - @seunome de usuário
 Nota: Exclua esta nota e adicione/remova/edite as linhas acima com base nos links que você gostaria de compartilhar.
 
-Agradecimentos
+## Agradecimentos
 É aqui que você pode dar uma dica de chapéu para quem o ajudou neste projeto. Talvez você tenha trabalhado em equipe ou tenha se inspirado na solução de outra pessoa. Este é o lugar perfeito para dar-lhes algum crédito.
 
 Nota: Exclua esta nota e edite o conteúdo desta seção conforme necessário. Se você completou este desafio sozinho, sinta-se à vontade para excluir esta seção completamente.
